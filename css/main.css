@@ -1968,6 +1968,7 @@ h6:first-child {
 
 p {
 	margin-bottom: 10px;
+	text-align: justify;
 }
 
 p:last-child {
