@@ -2218,6 +2218,7 @@ p .fa[class*="size"] {
 ul, ol {
 	padding-left: 30px;
 	margin-bottom: 20px;
+	text-align: justify;
 }
 
 .list1 ul,
